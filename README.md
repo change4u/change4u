@@ -80,14 +80,3 @@
 </p>
 
 <br>
-
-## 📊 GitHub Stats
-
-<p align="center">
-  <img height="165" src="https://github-readme-stats.vercel.app/api?username=change4u&show_icons=true&theme=tokyonight&hide_border=true&count_private=true" alt="Liz's GitHub stats" />
-  <img height="165" src="https://streak-stats.demolab.com/?user=change4u&theme=tokyonight&hide_border=true" alt="Liz's GitHub streak" />
-</p>
-
-<p align="center">
-  <img height="165" src="https://github-readme-stats.vercel.app/api/top-langs/?username=change4u&layout=compact&theme=tokyonight&hide_border=true" alt="Liz's top languages" />
-</p>
