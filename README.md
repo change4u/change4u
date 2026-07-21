@@ -1,82 +1,90 @@
-<h1 align="center">aethierly</h1>
+<h1 align="center">Mika — aethierly</h1>
+
+<p align="center">
+  <strong>Full-stack developer building practical tools, automation systems, and polished user experiences.</strong>
+</p>
 
 <p align="center">
   <img src="https://komarev.com/ghpvc/?username=change4u&label=Profile+Views&color=0e75b6&style=flat-square" alt="Profile views" />
 </p>
 
-<p align="center">
-  <img src="https://readme-typing-svg.demolab.com/?font=JetBrains+Mono&size=20&pause=1000&color=8B8B8B&center=true&vCenter=true&width=600&lines=Full-Stack+Developer;Building+premium%2C+interactive+web+experiences;Three.js+%E2%80%A2+GSAP+%E2%80%A2+Next.js" alt="Typing SVG" />
-</p>
+I work across web platforms, backend services, AI-assisted automation, and Windows desktop applications. I enjoy turning complex workflows into focused products with clean interfaces, reliable infrastructure, and maintainable code.
 
-<br>
+---
 
-## 🛠 Tech Stack
+## Current Focus
 
-### Frontend
+- Building human-in-the-loop automation that keeps users in control.
+- Developing modular Discord systems with dashboards, OAuth, persistent configuration, and operational tooling.
+- Creating focused web and desktop applications with modern JavaScript and .NET.
+
+---
+
+## Featured Projects
+
+<table>
+  <tr>
+    <td width="50%" valign="top">
+      <h3><a href="https://github.com/change4u/x-queue">x-queue</a></h3>
+      <p>A minimal news-driven posting queue with mandatory human approval, one-click X composer handoff, scheduled generation, and optional Claude-powered drafts.</p>
+      <p><code>Python</code> <code>FastAPI</code> <code>HTML</code> <code>GitHub Actions</code> <code>Anthropic API</code></p>
+    </td>
+    <td width="50%" valign="top">
+      <h3><a href="https://github.com/change4u/ChillTimer">ChillTimer</a></h3>
+      <p>A focused Windows Pomodoro timer with a custom WPF interface, tray integration, and a lightweight desktop experience.</p>
+      <p><code>C#</code> <code>.NET 8</code> <code>WPF</code> <code>Windows</code></p>
+    </td>
+  </tr>
+  <tr>
+    <td width="50%" valign="top">
+      <h3>Discord Platform Suite <sup>private</sup></h3>
+      <p>A modular suite for ticketing, voice management, moderation, and centralized configuration through an OAuth-enabled web dashboard.</p>
+      <p><code>JavaScript</code> <code>Node.js</code> <code>Discord.js</code> <code>Express</code> <code>SQLite</code></p>
+    </td>
+    <td width="50%" valign="top">
+      <h3>.NET Web Application <sup>private</sup></h3>
+      <p>A server-rendered movie application with structured domain models and a persistent relational data layer.</p>
+      <p><code>C#</code> <code>ASP.NET Core</code> <code>Razor Pages</code> <code>EF Core</code> <code>SQLite</code></p>
+    </td>
+  </tr>
+</table>
+
+---
+
+## Tech Stack
+
+### Languages
+
 <p>
-  <img src="https://raw.githubusercontent.com/devicons/devicon/master/icons/javascript/javascript-original.svg" alt="javascript" width="40" height="40"/>
-  <img src="https://raw.githubusercontent.com/devicons/devicon/master/icons/typescript/typescript-original.svg" alt="typescript" width="40" height="40"/>
-  <img src="https://raw.githubusercontent.com/devicons/devicon/master/icons/react/react-original.svg" alt="react" width="40" height="40"/>
-  <img src="https://raw.githubusercontent.com/devicons/devicon/master/icons/nextjs/nextjs-original.svg" alt="nextjs" width="40" height="40"/>
-  <img src="https://raw.githubusercontent.com/devicons/devicon/master/icons/html5/html5-original-wordmark.svg" alt="html5" width="40" height="40"/>
-  <img src="https://raw.githubusercontent.com/devicons/devicon/master/icons/css3/css3-original-wordmark.svg" alt="css3" width="40" height="40"/>
-  <img src="https://raw.githubusercontent.com/devicons/devicon/master/icons/tailwindcss/tailwindcss-original.svg" alt="tailwindcss" width="40" height="40"/>
-  <img src="https://raw.githubusercontent.com/devicons/devicon/master/icons/bootstrap/bootstrap-plain-wordmark.svg" alt="bootstrap" width="40" height="40"/>
+  <img src="https://skillicons.dev/icons?i=js,ts,python,cs,cpp,rust,go,php&perline=8" alt="JavaScript, TypeScript, Python, C sharp, C plus plus, Rust, Go, and PHP" />
 </p>
 
-### Animation & 3D
+### Web & Backend
+
 <p>
-  <img src="https://raw.githubusercontent.com/devicons/devicon/master/icons/threejs/threejs-original.svg" alt="threejs" width="40" height="40"/>
-  <img src="https://img.shields.io/badge/GSAP-88CE02?style=flat-square&logo=greensock&logoColor=white" alt="gsap" height="28"/>
+  <img src="https://skillicons.dev/icons?i=react,nextjs,nodejs,dotnet,fastapi,express,html,css,tailwind,bootstrap,threejs,graphql&perline=12" alt="React, Next.js, Node.js, .NET, FastAPI, Express, HTML, CSS, Tailwind CSS, Bootstrap, Three.js, and GraphQL" />
 </p>
 
-### Backend & Languages
 <p>
-  <img src="https://raw.githubusercontent.com/devicons/devicon/master/icons/nodejs/nodejs-original-wordmark.svg" alt="nodejs" width="40" height="40"/>
-  <img src="https://raw.githubusercontent.com/devicons/devicon/master/icons/php/php-original.svg" alt="php" width="40" height="40"/>
-  <img src="https://raw.githubusercontent.com/devicons/devicon/master/icons/python/python-original.svg" alt="python" width="40" height="40"/>
-  <img src="https://raw.githubusercontent.com/devicons/devicon/master/icons/csharp/csharp-original.svg" alt="csharp" width="40" height="40"/>
-  <img src="https://raw.githubusercontent.com/devicons/devicon/master/icons/dot-net/dot-net-original-wordmark.svg" alt="dotnet" width="40" height="40"/>
-  <img src="https://www.vectorlogo.zone/logos/rust-lang/rust-lang-icon.svg" alt="rust" width="40" height="40"/>
-  <img src="https://raw.githubusercontent.com/devicons/devicon/master/icons/cplusplus/cplusplus-original.svg" alt="cplusplus" width="40" height="40"/>
-  <img src="https://raw.githubusercontent.com/devicons/devicon/master/icons/go/go-original-wordmark.svg" alt="golang" width="40" height="40"/>
-  <img src="https://www.vectorlogo.zone/logos/graphql/graphql-icon.svg" alt="graphql" width="40" height="40"/>
+  <img src="https://img.shields.io/badge/GSAP-88CE02?style=flat-square&logo=greensock&logoColor=white" alt="GSAP" />
+  <img src="https://img.shields.io/badge/Discord.js-5865F2?style=flat-square&logo=discord&logoColor=white" alt="Discord.js" />
+  <img src="https://img.shields.io/badge/WPF-512BD4?style=flat-square&logo=dotnet&logoColor=white" alt="WPF" />
 </p>
 
-### Databases
+### Data & Infrastructure
+
 <p>
-  <img src="https://raw.githubusercontent.com/devicons/devicon/master/icons/mongodb/mongodb-original-wordmark.svg" alt="mongodb" width="40" height="40"/>
-  <img src="https://raw.githubusercontent.com/devicons/devicon/master/icons/mysql/mysql-original-wordmark.svg" alt="mysql" width="40" height="40"/>
-  <img src="https://raw.githubusercontent.com/devicons/devicon/master/icons/postgresql/postgresql-original.svg" alt="postgresql" width="40" height="40"/>
-  <img src="https://www.vectorlogo.zone/logos/sqlite/sqlite-icon.svg" alt="sqlite" width="40" height="40"/>
-  <img src="https://img.shields.io/badge/Supabase-3FCF8E?style=flat-square&logo=supabase&logoColor=white" alt="supabase" height="28"/>
+  <img src="https://skillicons.dev/icons?i=mongodb,mysql,postgres,sqlite,supabase,docker,azure,cloudflare,vercel,git,linux,githubactions&perline=12" alt="MongoDB, MySQL, PostgreSQL, SQLite, Supabase, Docker, Azure, Cloudflare, Vercel, Git, Linux, and GitHub Actions" />
 </p>
 
-### Cloud & Deployment
+### AI-Assisted Workflow
+
 <p>
-  <img src="https://raw.githubusercontent.com/devicons/devicon/master/icons/docker/docker-original-wordmark.svg" alt="docker" width="40" height="40"/>
-  <img src="https://www.vectorlogo.zone/logos/microsoft_azure/microsoft_azure-icon.svg" alt="azure" width="40" height="40"/>
-  <img src="https://raw.githubusercontent.com/devicons/devicon/master/icons/cloudflare/cloudflare-original-wordmark.svg" alt="cloudflare" width="40" height="40"/>
-  <img src="https://img.shields.io/badge/Vercel-000000?style=flat-square&logo=vercel&logoColor=white" alt="vercel" height="28"/>
+  <img src="https://img.shields.io/badge/Claude-D97757?style=flat-square&logo=claude&logoColor=white" alt="Claude" />
+  <img src="https://img.shields.io/badge/Cursor-000000?style=flat-square&logo=cursor&logoColor=white" alt="Cursor" />
+  <img src="https://img.shields.io/badge/Windsurf-00B8A9?style=flat-square&logo=windsurf&logoColor=white" alt="Windsurf" />
 </p>
 
-### AI & Editors
-<p>
-  <img src="https://img.shields.io/badge/Claude-D97757?style=flat-square&logo=claude&logoColor=white" alt="claude" height="28"/>
-  <img src="https://img.shields.io/badge/Cursor-000000?style=flat-square&logo=cursor&logoColor=white" alt="cursor" height="28"/>
-  <img src="https://img.shields.io/badge/Windsurf-00B8A9?style=flat-square&logo=windsurf&logoColor=white" alt="windsurf" height="28"/>
-</p>
+---
 
-### Tools & Design
-<p>
-  <img src="https://www.vectorlogo.zone/logos/git-scm/git-scm-icon.svg" alt="git" width="40" height="40"/>
-  <img src="https://raw.githubusercontent.com/devicons/devicon/master/icons/linux/linux-original.svg" alt="linux" width="40" height="40"/>
-  <img src="https://raw.githubusercontent.com/devicons/devicon/master/icons/figma/figma-original.svg" alt="figma" width="40" height="40"/>
-  <img src="https://www.vectorlogo.zone/logos/adobe_illustrator/adobe_illustrator-icon.svg" alt="illustrator" width="40" height="40"/>
-  <img src="https://download.blender.org/branding/community/blender_community_badge_white.svg" alt="blender" width="40" height="40"/>
-  <img src="https://raw.githubusercontent.com/leungwensen/svg-icon/b84b3f3a3da329b7c1d02346865f8e98beb05413/dist/svg/logos/middleman.svg" alt="middleman" width="40" height="40"/>
-  <img src="https://img.shields.io/badge/JSON-000000?style=flat-square&logo=json&logoColor=white" alt="json" height="28"/>
-  <img src="https://img.shields.io/badge/Batch-4D4D4D?style=flat-square" alt="batch" height="28"/>
-</p>
-
-<br>
+<p align="center"><em>Focused on useful software, thoughtful interfaces, and systems that make complex workflows feel simple.</em></p>
