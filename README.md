@@ -8,7 +8,7 @@
   <img src="https://komarev.com/ghpvc/?username=change4u&label=Profile+Views&color=0e75b6&style=flat-square" alt="Profile views" />
 </p>
 
-I work across web platforms, backend services, AI-assisted automation, and Windows desktop applications. I enjoy turning complex workflows into focused products with clean interfaces, reliable infrastructure, and maintainable code.
+I work across web platforms, backend services, automation, and Windows desktop applications. I enjoy turning complex workflows into focused products with clean interfaces, reliable infrastructure, and maintainable code.
 
 ---
 
@@ -17,7 +17,6 @@ I work across web platforms, backend services, AI-assisted automation, and Windo
 - Engineering secure, production-ready desktop and web platforms with modular frontend, backend, and release architecture.
 - Building integrated operations software across CRM, sales pipelines, projects, tasks, quotes, invoices, finance, reporting, scheduling, global search, and role-based collaboration.
 - Designing reliable delivery systems with protected authentication, row-level data security, automated backend deployment, and cryptographically signed application updates.
-- Exploring declarative, keyboard-driven Linux workflows with Arch Linux, Hyprland, niri, and NixOS.
 
 ---
 
@@ -59,42 +58,10 @@ I work across web platforms, backend services, AI-assisted automation, and Windo
 
 ---
 
-## Tech Stack
-
-### Languages
+## Core Stack
 
 <p>
-  <img src="https://skillicons.dev/icons?i=js,ts,python,cs,cpp,rust,go,php&perline=8" alt="JavaScript, TypeScript, Python, C sharp, C plus plus, Rust, Go, and PHP" />
-</p>
-
-### Web & Backend
-
-<p>
-  <img src="https://skillicons.dev/icons?i=react,nextjs,nodejs,dotnet,fastapi,express,html,css,tailwind,bootstrap,threejs,graphql&perline=12" alt="React, Next.js, Node.js, .NET, FastAPI, Express, HTML, CSS, Tailwind CSS, Bootstrap, Three.js, and GraphQL" />
-</p>
-
-### Data & Infrastructure
-
-<p>
-  <img src="https://skillicons.dev/icons?i=mongodb,mysql,postgres,sqlite,supabase,docker,azure,cloudflare,vercel,git,linux,githubactions&perline=12" alt="MongoDB, MySQL, PostgreSQL, SQLite, Supabase, Docker, Azure, Cloudflare, Vercel, Git, Linux, and GitHub Actions" />
-</p>
-
-### Linux & Desktop Interests
-
-<p>
-  <img src="https://img.shields.io/badge/Arch_Linux-1793D1?style=flat-square&logo=archlinux&logoColor=white" alt="Arch Linux" />
-  <img src="https://img.shields.io/badge/Hyprland-58E1FF?style=flat-square&logo=hyprland&logoColor=111111" alt="Hyprland" />
-  <img src="https://img.shields.io/badge/niri-566C86?style=flat-square&logoColor=white" alt="niri" />
-  <img src="https://img.shields.io/badge/NixOS-5277C3?style=flat-square&logo=nixos&logoColor=white" alt="NixOS" />
-</p>
-
-### AI-Assisted Workflow
-
-<p>
-  <img src="https://img.shields.io/badge/Codex-000000?style=flat-square&logo=openai&logoColor=white" alt="Codex" />
-  <img src="https://img.shields.io/badge/Claude-D97757?style=flat-square&logo=claude&logoColor=white" alt="Claude" />
-  <img src="https://img.shields.io/badge/Cursor-000000?style=flat-square&logo=cursor&logoColor=white" alt="Cursor" />
-  <img src="https://img.shields.io/badge/Windsurf-00B8A9?style=flat-square&logo=windsurf&logoColor=white" alt="Windsurf" />
+  <img src="https://skillicons.dev/icons?i=ts,react,tailwind,nodejs,python,fastapi,cs,dotnet,cpp,rust,tauri,supabase&perline=12" alt="TypeScript, React, Tailwind CSS, Node.js, Python, FastAPI, C sharp, .NET, C plus plus, Rust, Tauri, and Supabase" />
 </p>
 
 ---
