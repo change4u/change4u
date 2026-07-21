@@ -31,20 +31,39 @@ I work across web platforms, backend services, AI-assisted automation, and Windo
     </td>
     <td width="50%" valign="top">
       <h3><a href="https://github.com/change4u/ChillTimer">ChillTimer</a></h3>
-      <p>A focused Windows Pomodoro timer with a custom WPF interface, tray integration, and a lightweight desktop experience.</p>
-      <p><code>C#</code> <code>.NET 8</code> <code>WPF</code> <code>Windows</code></p>
+      <p>A focused Windows Pomodoro timer with a custom interface, tray integration, and a lightweight desktop experience.</p>
+      <p><code>C#</code> <code>.NET 8</code> <code>Windows</code></p>
     </td>
   </tr>
   <tr>
     <td width="50%" valign="top">
       <h3>Discord Platform Suite <sup>private</sup></h3>
       <p>A modular suite for ticketing, voice management, moderation, and centralized configuration through an OAuth-enabled web dashboard.</p>
-      <p><code>JavaScript</code> <code>Node.js</code> <code>Discord.js</code> <code>Express</code> <code>SQLite</code></p>
+      <p><code>JavaScript</code> <code>Node.js</code> <code>Express</code> <code>SQLite</code></p>
     </td>
     <td width="50%" valign="top">
       <h3>.NET Web Application <sup>private</sup></h3>
       <p>A server-rendered movie application with structured domain models and a persistent relational data layer.</p>
       <p><code>C#</code> <code>ASP.NET Core</code> <code>Razor Pages</code> <code>EF Core</code> <code>SQLite</code></p>
+    </td>
+  </tr>
+</table>
+
+---
+
+## Open Source Contributions
+
+<table>
+  <tr>
+    <td width="50%" valign="top">
+      <h3><a href="https://github.com/change4u/eddy">Eddy</a></h3>
+      <p>I contributed only the Windows version, including native platform integration and Windows installer packaging.</p>
+      <p><code>Windows</code> <code>C++</code> <code>Qt</code> <code>CMake</code> <code>MSI</code> <code>NSIS</code></p>
+    </td>
+    <td width="50%" valign="top">
+      <h3><a href="https://github.com/change4u/boltsnap">BoltSnap</a></h3>
+      <p>I contributed only the Windows version of the fast screenshot and annotation workflow.</p>
+      <p><code>Windows</code> <code>Rust</code> <code>Screen Capture</code></p>
     </td>
   </tr>
 </table>
@@ -65,12 +84,6 @@ I work across web platforms, backend services, AI-assisted automation, and Windo
   <img src="https://skillicons.dev/icons?i=react,nextjs,nodejs,dotnet,fastapi,express,html,css,tailwind,bootstrap,threejs,graphql&perline=12" alt="React, Next.js, Node.js, .NET, FastAPI, Express, HTML, CSS, Tailwind CSS, Bootstrap, Three.js, and GraphQL" />
 </p>
 
-<p>
-  <img src="https://img.shields.io/badge/GSAP-88CE02?style=flat-square&logo=greensock&logoColor=white" alt="GSAP" />
-  <img src="https://img.shields.io/badge/Discord.js-5865F2?style=flat-square&logo=discord&logoColor=white" alt="Discord.js" />
-  <img src="https://img.shields.io/badge/WPF-512BD4?style=flat-square&logo=dotnet&logoColor=white" alt="WPF" />
-</p>
-
 ### Data & Infrastructure
 
 <p>
@@ -80,6 +93,7 @@ I work across web platforms, backend services, AI-assisted automation, and Windo
 ### AI-Assisted Workflow
 
 <p>
+  <img src="https://img.shields.io/badge/Codex-000000?style=flat-square&logo=openai&logoColor=white" alt="Codex" />
   <img src="https://img.shields.io/badge/Claude-D97757?style=flat-square&logo=claude&logoColor=white" alt="Claude" />
   <img src="https://img.shields.io/badge/Cursor-000000?style=flat-square&logo=cursor&logoColor=white" alt="Cursor" />
   <img src="https://img.shields.io/badge/Windsurf-00B8A9?style=flat-square&logo=windsurf&logoColor=white" alt="Windsurf" />
