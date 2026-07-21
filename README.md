@@ -1,4 +1,4 @@
-<h1 align="center">Mika — aethierly</h1>
+<h1 align="center">Mika</h1>
 
 <p align="center">
   <strong>Full-stack developer building practical tools, automation systems, and polished user experiences.</strong>
