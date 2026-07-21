@@ -12,11 +12,12 @@ I work across web platforms, backend services, AI-assisted automation, and Windo
 
 ---
 
-## Current Focus
+## Professional Focus
 
-- Building human-in-the-loop automation that keeps users in control.
-- Developing modular Discord systems with dashboards, OAuth, persistent configuration, and operational tooling.
-- Creating focused web and desktop applications with modern JavaScript and .NET.
+- Engineering secure, production-ready desktop and web platforms with modular frontend, backend, and release architecture.
+- Building integrated operations software across CRM, sales pipelines, projects, tasks, quotes, invoices, finance, reporting, scheduling, global search, and role-based collaboration.
+- Designing reliable delivery systems with protected authentication, row-level data security, automated backend deployment, and cryptographically signed application updates.
+- Exploring declarative, keyboard-driven Linux workflows with Arch Linux, Hyprland, niri, and NixOS.
 
 ---
 
@@ -33,18 +34,6 @@ I work across web platforms, backend services, AI-assisted automation, and Windo
       <h3><a href="https://github.com/change4u/ChillTimer">ChillTimer</a></h3>
       <p>A focused Windows Pomodoro timer with a custom interface, tray integration, and a lightweight desktop experience.</p>
       <p><code>C#</code> <code>.NET 8</code> <code>Windows</code></p>
-    </td>
-  </tr>
-  <tr>
-    <td width="50%" valign="top">
-      <h3>Discord Platform Suite <sup>private</sup></h3>
-      <p>A modular suite for ticketing, voice management, moderation, and centralized configuration through an OAuth-enabled web dashboard.</p>
-      <p><code>JavaScript</code> <code>Node.js</code> <code>Express</code> <code>SQLite</code></p>
-    </td>
-    <td width="50%" valign="top">
-      <h3>.NET Web Application <sup>private</sup></h3>
-      <p>A server-rendered movie application with structured domain models and a persistent relational data layer.</p>
-      <p><code>C#</code> <code>ASP.NET Core</code> <code>Razor Pages</code> <code>EF Core</code> <code>SQLite</code></p>
     </td>
   </tr>
 </table>
@@ -88,6 +77,15 @@ I work across web platforms, backend services, AI-assisted automation, and Windo
 
 <p>
   <img src="https://skillicons.dev/icons?i=mongodb,mysql,postgres,sqlite,supabase,docker,azure,cloudflare,vercel,git,linux,githubactions&perline=12" alt="MongoDB, MySQL, PostgreSQL, SQLite, Supabase, Docker, Azure, Cloudflare, Vercel, Git, Linux, and GitHub Actions" />
+</p>
+
+### Linux & Desktop Interests
+
+<p>
+  <img src="https://img.shields.io/badge/Arch_Linux-1793D1?style=flat-square&logo=archlinux&logoColor=white" alt="Arch Linux" />
+  <img src="https://img.shields.io/badge/Hyprland-58E1FF?style=flat-square&logo=hyprland&logoColor=111111" alt="Hyprland" />
+  <img src="https://img.shields.io/badge/niri-566C86?style=flat-square&logoColor=white" alt="niri" />
+  <img src="https://img.shields.io/badge/NixOS-5277C3?style=flat-square&logo=nixos&logoColor=white" alt="NixOS" />
 </p>
 
 ### AI-Assisted Workflow
